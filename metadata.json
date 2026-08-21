@@ -1,0 +1,6 @@
+{
+  "name": "Jaipur Waste Map & Admin Command Center",
+  "description": "Civic waste management operations dashboard and citizen reporting platform for Jaipur city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
